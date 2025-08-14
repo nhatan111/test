@@ -1,0 +1,242 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "bai35_secondMaxArrayElements",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai35_secondMaxArrayElements",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai34_fibonacci",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai34_fibonacci",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai33_findLCM",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai33_findLCM",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai32_sumSeries1OverN",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai32_sumSeries1OverN",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai31_countPrimeToN",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai31_countPrimeToN",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai30_drawSquareStars",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai30_drawSquareStars",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai29_sumOfDigits",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai29_sumOfDigits",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai28_powerOfTwo",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai28_powerOfTwo",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai20_frequencyEachElement",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai20_frequencyEachElement",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai19_findCommonElements",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai19_findCommonElements",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai16_longestIncreasingSubarray",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai16_longestIncreasingSubarray",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai14_maxSumSubarraySizeK",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai14_maxSumSubarraySizeK",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai15_splitArrayPosNeg",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai15_splitArrayPosNeg",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai12_removeDuplicates",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai12_removeDuplicates",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai10_secondMaxArray",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.bai10_secondMaxArray",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "countEvenOdd",
+      "request": "launch",
+      "mainClass": "chuong3_loop.Array_loop.countEvenOdd",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai7_patternOfTriangle",
+      "request": "launch",
+      "mainClass": "chuong3_loop.bai7_patternOfTriangle",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai3_printStarsOf",
+      "request": "launch",
+      "mainClass": "chuong3_loop.bai3_printStarsOf",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai1_sumOfFirstN",
+      "request": "launch",
+      "mainClass": "chuong3_loop.bai1_sumOfFirstN",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai15_triangleTypeChecker",
+      "request": "launch",
+      "mainClass": "chuong2_condition.bai15_triangleTypeChecker",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai15_",
+      "request": "launch",
+      "mainClass": "chuong2_condition.bai15_",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "check",
+      "request": "launch",
+      "mainClass": "chuong2_condition.check",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai13_check",
+      "request": "launch",
+      "mainClass": "chuong2_condition.bai13_check",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai12_check",
+      "request": "launch",
+      "mainClass": "chuong2_condition.bai12_check",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai11_check",
+      "request": "launch",
+      "mainClass": "chuong2_condition.bai11_check",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai7_gradeCalculator",
+      "request": "launch",
+      "mainClass": "chuong2_condition.bai7_gradeCalculator",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai6_DivisibleBy3And5",
+      "request": "launch",
+      "mainClass": "chuong2_condition.bai6_DivisibleBy3And5",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai2_checkEvenOdd",
+      "request": "launch",
+      "mainClass": "chuong2_condition.bai2_checkEvenOdd",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai1_compareTwoNumbers",
+      "request": "launch",
+      "mainClass": "chuong2_condition.bai1_compareTwoNumbers",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai15_distance",
+      "request": "launch",
+      "mainClass": "chuong1_io_math.bai15_distance",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai14_changeDegreestoRadian",
+      "request": "launch",
+      "mainClass": "chuong1_io_math.bai14_changeDegreestoRadian",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "chuong1_io_math",
+      "request": "launch",
+      "mainClass": "chuong1_io_math.chuong1_io_math",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "bai13_vellocity",
+      "request": "launch",
+      "mainClass": "chuong1_io_math.bai13_vellocity",
+      "projectName": "JAVA_CODE_4303096d"
+    },
+    {
+      "type": "java",
+      "name": "Chạy file Java đang mở",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
